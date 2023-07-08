@@ -1,0 +1,9 @@
+{
+    "name": "rocalex/global-open-sdk-php",
+    "version": "0.1.2",
+    "autoload": {
+        "psr-4": {
+            "Alipay\\GlobalApiSDK\\": "src"
+        }
+    }
+}
